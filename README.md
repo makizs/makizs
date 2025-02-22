@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kauã Campos, front end developer! 👋
 
 
 
